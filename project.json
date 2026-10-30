@@ -1,0 +1,22 @@
+{
+  "name": "star-wars-galactic-racer-race-toolkit",
+  "displayName": "Star Wars Galactic Racer Race Toolkit",
+  "programType": "race-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Vehicle groups",
+    "Control profiles",
+    "Race notes"
+  ],
+  "topics": [
+    "star-wars-galactic-racer-race-toolkit",
+    "star-wars-galactic-racer-tools",
+    "star-wars-galactic-racer-menu",
+    "star-wars-galactic-racer-settings",
+    "star-wars-galactic-racer-configs",
+    "star-wars-galactic-racer-vehicle-groups",
+    "star-wars-galactic-racer-control-profiles"
+  ]
+}
